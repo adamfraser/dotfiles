@@ -1,8 +1,0 @@
-create symlinks to root directory for
-.vim folder
-
-vim/.vimrc
-vim/.gvimrc
-
-.zshenv
-zshrc
